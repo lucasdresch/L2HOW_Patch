@@ -2423,6 +2423,9 @@
 22810	a,Micro Scout Golem\0	a,	9C	E8	A9	-1
 22811	a,Great Chaos Golem\0	a,	9C	E8	A9	-1
 22812	a,Boom Golem\0	a,	9C	E8	A9	-1
+2081	a,Plague Kanabion\0	a,	9C	E8	A9	-1
+2082	a,Plague Kanabion\0	a,Doppler\0	9C	E8	A9	-1
+2083	a,Plague Kanabion\0	a,Void\0	9C	E8	A9	-1
 22813	a,Demon's Banquet\0	a,	9C	E8	A9	-1
 22814	a,Demon's Banquet\0	a,	9C	E8	A9	-1
 22815	a,Drakos\0	a,	9C	E8	A9	-1
@@ -2498,9 +2501,9 @@
 25023	a,Stakato Queen Zyrnna\0	a,Raid Boss\0	3F	8B	FE	-1
 25024	a,Jeruna's Guard Captain\0	a,Raid Fighter\0	3F	8B	FE	-1
 25025	a,Jeruna's Guard\0	a,Raid Fighter\0	3F	8B	FE	-1
-25026	a,Katu Van Leader Atui\0	a,Raid Boss\0	3F	8B	FE	-1
-25027	a,Katu Van Marksman\0	a,Raid Fighter\0	3F	8B	FE	-1
-25028	a,Katu Van Raider\0	a,Raid Fighter\0	3F	8B	FE	-1
+25026	a,Ketra Commander Atis\0	a,Raid Boss\0	3F	8B	FE	-1
+25027	a,Ketra Marksman\0	a,Raid Fighter\0	3F	8B	FE	-1
+25028	a,Ketra Raider\0	a,Raid Fighter\0	3F	8B	FE	-1
 25029	a,Atraiban\0	a,Raid Boss\0	3F	8B	FE	-1
 25030	a,Atraiban's Top Disciple\0	a,Raid Fighter\0	3F	8B	FE	-1
 25031	a,Atraiban's Disciple\0	a,Raid Fighter\0	3F	8B	FE	-1
@@ -2529,9 +2532,9 @@
 25054	a,Kernon\0	a,Raid Boss\0	3F	8B	FE	-1
 25055	a,Taliadon\0	a,Raid Fighter\0	3F	8B	FE	-1
 25056	a,Vemsk\0	a,Raid Fighter\0	3F	8B	FE	-1
-25057	a,Biconne of Blue Sky\0	a,Raid Boss\0	3F	8B	FE	-1
-25058	a,Biconne's Shooter\0	a,Raid Fighter\0	3F	8B	FE	-1
-25059	a,Biconne's Warrior\0	a,Raid Fighter\0	3F	8B	FE	-1
+25057	a,Beacon of Blue Sky\0	a,Raid Boss\0	3F	8B	FE	-1
+25058	a,Beacon's Shooter\0	a,Raid Fighter\0	3F	8B	FE	-1
+25059	a,Beacon's Warrior\0	a,Raid Fighter\0	3F	8B	FE	-1
 25060	a,Unrequited Kael\0	a,Raid Boss\0	3F	8B	FE	-1
 25061	a,Kael's Bead\0	a,Raid Fighter\0	3F	8B	FE	-1
 25062	a,Kael's Escort\0	a,Raid Fighter\0	3F	8B	FE	-1
@@ -2652,8 +2655,8 @@
 25179	a,Guardian of the Statue of Giant Karum\0	a,Raid Boss\0	3F	8B	FE	-1
 25180	a,Karum's Guard\0	a,Raid Fighter\0	3F	8B	FE	-1
 25181	a,Karum's Warrior\0	a,Raid Fighter\0	3F	8B	FE	-1
-25182	a,Demon Kurikups\0	a,Raid Boss\0	3F	8B	FE	-1
-25183	a,Kurikups' Wife\0	a,Raid Fighter\0	3F	8B	FE	-1
+25182	a,Demon Kuri\0	a,Raid Boss\0	3F	8B	FE	-1
+25183	a,Kuri's Wife\0	a,Raid Fighter\0	3F	8B	FE	-1
 25184	a,Devil Blader of Chaos\0	a,Raid Fighter\0	3F	8B	FE	-1
 25185	a,Tasaba Patriarch Hellena\0	a,Raid Boss\0	3F	8B	FE	-1
 25186	a,Hellena's Marksman\0	a,Raid Fighter\0	3F	8B	FE	-1
@@ -2701,7 +2704,7 @@
 25231	a,Ragoth's Guard\0	a,Raid Fighter\0	3F	8B	FE	-1
 25232	a,Ragoth's Herald\0	a,Raid Fighter\0	3F	8B	FE	-1
 25233	a,Spirit of Andras, the Betrayer\0	a,Raid Boss\0	3F	8B	FE	-1
-25234	a,Ancient Weird Drake\0	a,Raid Boss\0	3F	8B	FE	-1
+25234	a,Ancient Drake\0	a,Raid Boss\0	3F	8B	FE	-1
 25235	a,Vanor Chief Kandra\0	a,Raid Boss\0	3F	8B	FE	-1
 25236	a,Kandra's Healer\0	a,Raid Fighter\0	3F	8B	FE	-1
 25237	a,Kandra's Guard\0	a,Raid Fighter\0	3F	8B	FE	-1
@@ -2842,9 +2845,9 @@
 25372	a,Discarded Guardian\0	a,Raid Boss\0	3F	8B	FE	-1
 25373	a,Malex Herald of Dagoniel \0	a,Raid Boss\0	3F	8B	FE	-1
 25374	a,Abyss Flyer\0	a,Raid Fighter\0	3F	8B	FE	-1
-25375	a,Zombie Lord Farakelsus\0	a,Raid Boss\0	3F	8B	FE	-1
-25376	a,Warrior Zombie of Farakelsus\0	a,Raid Fighter\0	3F	8B	FE	-1
-25377	a,Priest Zombie of Farakelsus\0	a,Raid Fighter\0	3F	8B	FE	-1
+25375	a,Zombie Lord Ferkel\0	a,Raid Boss\0	3F	8B	FE	-1
+25376	a,Ferkel's Warrior\0	a,Raid Fighter\0	3F	8B	FE	-1
+25377	a,Ferkel's Priest\0	a,Raid Fighter\0	3F	8B	FE	-1
 25378	a,Madness Beast\0	a,Raid Boss\0	3F	8B	FE	-1
 25379	a,Dementia Beast\0	a,Raid Fighter\0	3F	8B	FE	-1
 25380	a,Kaysha Herald of Icarus\0	a,Raid Boss\0	3F	8B	FE	-1
@@ -3174,8 +3177,8 @@
 25711	a,Lost Guard\0	a,	3F	8B	FE	-1
 25712	a,Lost Assistant Guard\0	a,	3F	8B	FE	-1
 25713	a,Darnels\0	a,Square\0	3F	8B	FE	-1
-25714	a,Kietch\0	a,Flames\0	3F	8B	FE	-1
-25715	a,Kietch's Subordinate\0	a,	3F	8B	FE	-1
+25714	a,Kechi\0	a,Flames\0	3F	8B	FE	-1
+25715	a,Kechi's Subordinate\0	a,	3F	8B	FE	-1
 25716	a,Tears\0	a,Ice\0	3F	8B	FE	-1
 25717	a,Tears\0	a,Ice\0	3F	8B	FE	-1
 25718	a,Emerald Horn\0	a,Raid Boss\0	3F	8B	FE	-1
@@ -3195,6 +3198,73 @@
 25732	a,Dragon Beast\0	a,Raid Boss\0	3F	8B	FE	-1
 25733	a,Gem Dragon\0	a,	9C	E8	A9	-1
 25734	a,Parasitic Leech\0	a,	9C	E8	A9	-1
+25735	a,Greyclaw Kutus\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25736	a,Kutus' Guard\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25737	a,Kutus' Pawn\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25738	a,Lead Tracker Sharuk\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25739	a,Sharuk's Minion\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25740	a,Sharuk's Marksman\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25741	a,Sukar Wererat Chief\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25742	a,Sukar Wererat Guard\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25743	a,Sukar Wererat Priest\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25744	a,Ikuntai\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25745	a,Ikuntai's Servitor\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25746	a,Ikuntai's Pawn\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25747	a,Zombie Lord Crowl\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25748	a,Evil Spirit Archer\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25749	a,Evil Spirit Warrior\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25750	a,Zombie Lord Ferkel\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25751	a,Ferkel's Warrior\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25752	a,Ferkel's Priest\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25753	a,Guillotine Warden\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25754	a,Fire Lord Shadar\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25755	a,Sword of Shadar\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25756	a,Whip of Shadar\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25757	a,Soul Collector Acheron\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25758	a,Soul Slasher\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25759	a,Soul Strainer\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25760	a,Lord Ishka\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25761	a,Ishka's Elite Officer\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25762	a,Ishka's Elite Soldier\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25763	a,Demon Kuri\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25764	a,Kuri's Wife\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25765	a,Devil Blader of Chaos\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25766	a,Ancient Drake\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25767	a,Carnage Lord Gato\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25768	a,Gato's Marksman\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25769	a,Gato's Champion\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25770	a,Ketra Commander Atis\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25771	a,Ketra Marksman\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25772	a,Ketra Raider\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25773	a,Beacon of Blue Sky\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25774	a,Beacon's Shooter\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25775	a,Beacon's Warrior\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25776	a,Earth Protector Panathen\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25777	a,Panathen's Knight\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25778	a,Panathen's Protectors\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25779	a,Betrayer of Urutu Freki\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25780	a,Freki's Vampire Bat\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25781	a,Freki's Wild Bear\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25782	a,Nellis' Vengeful Spirit\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25783	a,Nellis' Follower\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25784	a,Rayito the Looter\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25785	a,Rayito's Henchman\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25786	a,Rayito's Henchman\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25787	a,Ketra's Hero Hekaton\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25788	a,Scout of Hekaton\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25789	a,Servant of Hekaton\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25790	a,Varka's Hero Shadith\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25791	a,Shadith's Royal Guard Captain\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25792	a,Shadith's Sentinel\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25793	a,Doom Blade Tanatos\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25794	a,Kernon\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25795	a,Taliadon\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25796	a,Vemsk\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25797	a,Meanas Anor\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25798	a,Wyvern of Marsh\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25799	a,Succubus of Marsh\0	a,Follower of Destruction\0	3F	8B	FE	-1
+25800	a,Mammon Collector Talos\0	a,Lord of Destruction\0	3F	8B	FE	-1
+25801	a,Talos' Cohort\0	a,Follower of Destruction\0	3F	8B	FE	-1
 29001	a,Queen Ant\0	a,	9C	E8	A9	-1
 29002	a,Queen Ant Larva\0	a,	9C	E8	A9	-1
 29003	a,Nurse Ant\0	a,	9C	E8	A9	-1
@@ -3223,7 +3293,7 @@
 29026	a,Pirate Zombie Captain\0	a,	9C	E8	A9	-1
 29027	a,Pirate Zombie\0	a,	9C	E8	A9	-1
 29028	a,Valakas\0	a,Fire Dragon\0	9C	E8	A9	-1
-29029	a,Lavasaurus Pustbon\0	a,	9C	E8	A9	-1
+29029	a,Lavasaurus Alpha\0	a,	9C	E8	A9	-1
 29030	a,Fenril Hound Kerinne\0	a,Family of Valakas\0	3F	8B	FE	-1
 29031	a,Kerinne's Ifrit\0	a,	9C	E8	A9	-1
 29032	a,Kerinne's Golem\0	a,	9C	E8	A9	-1
@@ -4039,9 +4109,9 @@
 18661	a,	a,	9C	E8	A9	-1
 18662	a,	a,	9C	E8	A9	-1
 18663	a,	a,	9C	E8	A9	-1
-18664	a,Luckpy Luckpy\0	a,The Spirit of Pigs\0	9C	E8	A9	-1
-18665	a,Luckpy Luckpy\0	a,The Spirit of Pigs\0	9C	E8	A9	-1
-18666	a,Luckpy Luckpy\0	a,The Spirit of Pigs\0	9C	E8	A9	-1
+18664	a,Lucky Pig\0	a,The Spirit of Fortune\0	9C	E8	A9	-1
+18665	a,Lucky Pig\0	a,The Spirit of Fortune\0	9C	E8	A9	-1
+18666	a,Lucky Pig\0	a,The Spirit of Fortune\0	9C	E8	A9	-1
 18667	a,Ward of Death\0	a,	9C	E8	A9	-1
 18668	a,Ward of Death\0	a,	9C	E8	A9	-1
 18669	a,	a,	9C	E8	A9	-1
@@ -4057,8 +4127,8 @@
 18679	a,Energy Seed - Fire\0	a,	9C	E8	A9	-1
 18680	a,Energy Seed - Wind\0	a,	9C	E8	A9	-1
 18681	a,Energy Seed - Earth\0	a,	9C	E8	A9	-1
-18682	a,Energy Seed - Divinity\0	a,	9C	E8	A9	-1
-18683	a,Energy Seed - Darkness\0	a,	9C	E8	A9	-1
+18682	a,Energy Seed - Holy\0	a,	9C	E8	A9	-1
+18683	a,Energy Seed - Dark\0	a,	9C	E8	A9	-1
 18684	a,Red Star Stone\0	a,	9C	E8	A9	-1
 18685	a,Red Star Stone\0	a,	9C	E8	A9	-1
 18686	a,Red Star Stone\0	a,	9C	E8	A9	-1
@@ -4347,9 +4417,9 @@
 18969	a,Magma Drake Mother\0	a,	9C	E8	A9	-1
 18970	a,Magma Drake Hatchling\0	a,	9C	E8	A9	-1
 18971	a,Gem Dragon Hatchling\0	a,	9C	E8	A9	-1
-2501	a,Luckpy Luckpy\0	a,The Spirit of Pigs\0	9C	E8	A9	-1
-2502	a,Wingless Luckpy Luckpy\0	a,	9C	E8	A9	-1
-2503	a,Wingless Luckpy Luckpy\0	a,	9C	E8	A9	-1
+2501	a,Lucky Pig\0	a,The Spirit of Fortune\0	9C	E8	A9	-1
+2502	a,Wingless Lucky Pig\0	a,	9C	E8	A9	-1
+2503	a,Wingless Lucky Pig\0	a,	9C	E8	A9	-1
 27001	a,Orc Sniper\0	a,	9C	E8	A9	-1
 27002	a,Orc Fighter\0	a,	9C	E8	A9	-1
 27003	a,Spirit Of Mirrors\0	a,Quest Monster\0	0	80	FF	-1
@@ -6003,7 +6073,7 @@
 31537	a,Tunatun\0	a,Beast Herder\0	9C	E8	A9	-1
 31538	a,Ghost of Adventurer\0	a,	9C	E8	A9	-1
 31539	a,Vulcan\0	a,Blacksmith of Flame\0	9C	E8	A9	-1
-31540	a,Klein\0	a,Watcher of Valakas\0	9C	E8	A9	-1
+31540	a,Klein\0	a,Valakas Watchman\0	9C	E8	A9	-1
 31541	a,Daimon's Altar\0	a,	9C	E8	A9	-1
 31542	a,Yeti's Table\0	a,	9C	E8	A9	-1
 31543	a,Pulin\0	a,	9C	E8	A9	-1
@@ -7073,7 +7143,7 @@
 32635	a,Master Dugi\0	a,Energy Recovery Event\0	9C	E8	A9	-1
 32636	a,Employee of Magic Research Institute\0	a,Event manager\0	9C	E8	A9	-1
 32637	a,Foundry Teleporter\0	a,	9C	E8	A9	-1
-32638	a,Roni the cat\0	a,PC Cafe Event\0	9C	E8	A9	-1
+32638	a,Roni the cat\0	a,Player Commendation Event\0	9C	E8	A9	-1
 32639	a,Pierre Baguette\0	a,April Fool's Day Event\0	9C	E8	A9	-1
 32640	a,Kintaijin\0	a,Bounty Hunter\0	9C	E8	A9	-1
 32641	a,Dr. Helvetica\0	a,	9C	E8	A9	-1
@@ -7232,7 +7302,7 @@
 32794	a,Solina\0	a,Saintess of Elmore-Aden\0	9C	E8	A9	-1
 32795	a,Eris\0	a,Solina's Disciple\0	9C	E8	A9	-1
 32796	a,Anais\0	a,Solina's Disciple\0	9C	E8	A9	-1
-32797	a,Judith van Etina\0	a,Solina's Disciple\0	9C	E8	A9	-1
+32797	a,Jude van Etina\0	a,Solina's Disciple\0	9C	E8	A9	-1
 32798	a,Elcadia\0	a,Abyssal Saintess\0	9C	E8	A9	-1
 32799	a,Hardin\0	a,Grand Wizard\0	9C	E8	A9	-1
 32800	a,Frikios\0	a,Guide of Revelation\0	9C	E8	A9	-1
@@ -7323,8 +7393,8 @@
 32885	a,Behemoth Leader\0	a,	9C	E8	A9	-1
 32886	a,Dragon Beast\0	a,	9C	E8	A9	-1
 32887	a,Metar\0	a,Recipe Merchant\0	9C	E8	A9	-1
-32888	a,Judith van Etina's Evil Thoughts\0	a,Solina's Disciple\0	9C	E8	A9	-1
-32889	a,Judith van Etina's Evil Thoughts\0	a,Solina's Disciple\0	9C	E8	A9	-1
+32888	a,Jude van Etina's Evil Thoughts\0	a,Solina's Disciple\0	9C	E8	A9	-1
+32889	a,Jude van Etina's Evil Thoughts\0	a,Solina's Disciple\0	9C	E8	A9	-1
 32890	a,Ruiman\0	a,Warehouse Keeper of the Valley\0	9C	E8	A9	-1
 32891	a,Separated Soul\0	a,	9C	E8	A9	-1
 4301	a,Miss Queen\0	a,Valentine Messenger\0	9C	E8	A9	-1
@@ -7334,7 +7404,7 @@
 4305	a,Rosalia\0	a,Helpless Romantic\0	9C	E8	A9	-1
 4306	a,Steve Shyagel\0	a,Eva's High Priest\0	9C	E8	A9	-1
 4307	a,Santa Claus\0	a,Event Manager\0	9C	E8	A9	-1
-4308	a,Angel Cat\0	a,Love's Envoy\0	9C	E8	A9	-1
+4308	a,Angel Cat\0	a,Heavenly Envoy\0	9C	E8	A9	-1
 4309	a,Prophet\0	a,Sinister\0	9C	E8	A9	-1
 4310	a,Prophet\0	a,Sinister\0	9C	E8	A9	-1
 4311	a,Prophet\0	a,Sinister\0	9C	E8	A9	-1
@@ -7342,17 +7412,20 @@
 4313	a,Angel Cat\0	a,Character Collector\0	9C	E8	A9	-1
 4314	a,Teleport Device\0	a,	9C	E8	A9	-1
 4315	a,Warehouse Keeper\0	a,Fantasy Isle Warehouse Keeper \0	9C	E8	A9	-1
-4316	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4317	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4318	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4319	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4320	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4321	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4322	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
-4323	a,Kind Sno\0	a,Photo NPC\0	9C	E8	A9	-1
+4316	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4317	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4318	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4319	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4320	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4321	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4322	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
+4323	a,Photo Snow\0	a,Photographer\0	9C	E8	A9	-1
 4324	a,Worshipper\0	a,Sinister\0	9C	E8	A9	-1
 4325	a,Altar Guard\0	a,	9C	E8	A9	-1
 4326	a,Nevit's Herald\0	a,Invoker\0	9C	E8	A9	-1
+4327	a,Worshipper\0	a,Sinister\0	9C	E8	A9	-1
+4328	a,Altar Guard\0	a,	9C	E8	A9	-1
+4329	a,Miss Queen\0	a,Happy Messenger\0	9C	E8	A9	-1
 35010	a,Mercenary\0	a,	9C	E8	A9	-1
 35011	a,Mercenary\0	a,	9C	E8	A9	-1
 35012	a,Mercenary\0	a,	9C	E8	A9	-1
@@ -8514,24 +8587,24 @@
 36169	a,Mercenary Captain\0	a,	9C	E8	A9	-1
 36170	a,Mercenary Private\0	a,	9C	E8	A9	-1
 36171	a,Flagpole\0	a,	9C	E8	A9	-1
-36172	a,Foreman\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36173	a,Suspicious Merchant\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36174	a,Guard Captain\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36175	a,Archer Captain\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36176	a,General\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36177	a,Support Unit Captain\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36178	a,Engineering Manager\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36179	a,Logistics Officer\0	a,Antharas' Fortress\0	9C	E8	A9	-1
+36172	a,Foreman\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36173	a,Suspicious Merchant\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36174	a,Guard Captain\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36175	a,Archer Captain\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36176	a,General\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36177	a,Support Unit Captain\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36178	a,Engineering Manager\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36179	a,Logistics Officer\0	a,Antharas's Fortress\0	9C	E8	A9	-1
 36180	a,Supply Box\0	a,	9C	E8	A9	-1
-36181	a,Detention Camp Warden\0	a,Antharas' Fortress\0	9C	E8	A9	-1
+36181	a,Detention Camp Warden\0	a,Antharas's Fortress\0	9C	E8	A9	-1
 36182	a,Doorman\0	a,	9C	E8	A9	-1
 36183	a,Doorman\0	a,	9C	E8	A9	-1
 36184	a,Doorman\0	a,	9C	E8	A9	-1
-36185	a,Rebel Commander\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36186	a,Decorated Rebel Soldier\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36187	a,Rebel Private\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36188	a,Court Guard\0	a,Antharas' Fortress\0	9C	E8	A9	-1
-36189	a,Guard\0	a,Antharas' Fortress\0	9C	E8	A9	-1
+36185	a,Rebel Commander\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36186	a,Decorated Rebel Soldier\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36187	a,Rebel Private\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36188	a,Court Guard\0	a,Antharas's Fortress\0	9C	E8	A9	-1
+36189	a,Guard\0	a,Antharas's Fortress\0	9C	E8	A9	-1
 36190	a,Main Machine\0	a,Control Room\0	9C	E8	A9	-1
 36191	a,Backup Power Unit\0	a,Control Room\0	9C	E8	A9	-1
 36192	a,Control Unit\0	a,Control Room\0	9C	E8	A9	-1
@@ -8548,7 +8621,7 @@
 36203	a,Archer\0	a,Archer\0	9C	E8	A9	-1
 36204	a,General\0	a,Officer's Barracks\0	9C	E8	A9	-1
 36205	a,Minister\0	a,Officer's Barracks\0	9C	E8	A9	-1
-36206	a,Ballista\0	a,Antharas' Fortress\0	9C	E8	A9	-1
+36206	a,Ballista\0	a,Antharas's Fortress\0	9C	E8	A9	-1
 36207	a,Mercenary Captain\0	a,	9C	E8	A9	-1
 36208	a,Mercenary Private\0	a,	9C	E8	A9	-1
 36209	a,Flagpole\0	a,	9C	E8	A9	-1
@@ -8814,7 +8887,7 @@
 36469	a,Wyvern Manager\0	a,Cloud Mountain\0	9C	E8	A9	-1
 36470	a,Wyvern Manager\0	a,Tanor Fortress\0	9C	E8	A9	-1
 36471	a,Wyvern Manager\0	a,Dragonspine Fortress\0	9C	E8	A9	-1
-36472	a,Wyvern Manager\0	a,Antharas' Fortress\0	9C	E8	A9	-1
+36472	a,Wyvern Manager\0	a,Antharas's Fortress\0	9C	E8	A9	-1
 36473	a,Wyvern Manager\0	a,Western Fortress\0	9C	E8	A9	-1
 36474	a,Wyvern Manager\0	a,Hunter's Fortress\0	9C	E8	A9	-1
 36475	a,Wyvern Manager\0	a,Aaru Fortress\0	9C	E8	A9	-1
@@ -10017,6 +10090,7 @@
 1602	a,Super Kat the Cat Z\0	a,	9C	E8	A9	-1
 1603	a,Super Mew the Cat Z\0	a,	9C	E8	A9	-1
 1604	a,Hanbok Agathion\0	a,	9C	E8	A9	-1
+1605	a,Juju Agathion\0	a,	9C	E8	A9	-1
 12077	a,Wolf\0	a,	9C	E8	A9	-1
 12311	a,Hatchling of the Wind\0	a,	9C	E8	A9	-1
 12312	a,Hatchling of the Stars\0	a,	9C	E8	A9	-1
@@ -10129,7 +10203,7 @@
 13098	a,Event Treasure Chest\0	a,	9C	E8	A9	-1
 13099	a,Zaken\0	a,	9C	E8	A9	-1
 13100	a,Anakim\0	a,	9C	E8	A9	-1
-13101	a,Benom\0	a,	9C	E8	A9	-1
+13101	a,Venom\0	a,	9C	E8	A9	-1
 13102	a,Gordon\0	a,	9C	E8	A9	-1
 13103	a,Ranku\0	a,	9C	E8	A9	-1
 13104	a,Kiyachi\0	a,	9C	E8	A9	-1
@@ -10376,13 +10450,13 @@
 146	a,Totem of Fortitude\0	a,	9C	E8	A9	-1
 147	a,Party Cake\0	a,	9C	E8	A9	-1
 148	a,Campfire\0	a,	9C	E8	A9	-1
-149	a,Baby Rabbit\0	a,	9C	E8	A9	-1
-150	a,Baby Rabbit Boss\0	a,	9C	E8	A9	-1
-151	a,Gloomy Baby Rabbit\0	a,	9C	E8	A9	-1
-152	a,Gloomy Baby Rabbit Boss\0	a,	9C	E8	A9	-1
-153	a,Employee of Magic Research Institute\0	a,Event Manager\0	9C	E8	A9	-1
+149	a,Angry Bunny\0	a,	9C	E8	A9	-1
+150	a,Large Angry Bunny\0	a,	9C	E8	A9	-1
+151	a,Fearless Angry Bunny\0	a,	9C	E8	A9	-1
+152	a,Large Fearless Angry Bunny\0	a,	9C	E8	A9	-1
+153	a,Magic Research Institute Employee\0	a,Event Manager\0	9C	E8	A9	-1
 154	a,	a,	9C	E8	A9	-1
 155	a,	a,	9C	E8	A9	-1
-156	a,Rabbit\0	a,	9C	E8	A9	-1
-157	a,Rabbit Boss\0	a,	9C	E8	A9	-1
+156	a,Raging Bunny\0	a,	9C	E8	A9	-1
+157	a,Large Raging Bunny\0	a,	9C	E8	A9	-1
 158	a,Wood Horse\0	a,	9C	E8	A9	-1

@@ -9900,3 +9900,17 @@
 152	6135	spatk01	a,s_event_basic_attack1\0	a,ev_gloomy_rabbit_boss\0	a,ev_gloomy_rabbit_boss\0
 156	6133	atk01	a,s_event_cow_boss_big_head1\0	a,ev_pink_rabbit\0	a,ev_pink_rabbit\0
 157	6135	spatk01	a,s_event_basic_attack1\0	a,ev_pink_rabbit_boss\0	a,ev_pink_rabbit_boss\0
+25745	4780	atk01	a,s_heal_boss_a_2c_1\0	a,summon_of_ikuntai_gd\0	a,LineageMonster.silhouette\0
+2081	4032	spatk02	a,s_npc_strike9\0	a,g_rim_80_normal\0	a,LineageMonster6.br_husk_crawler\0
+2081	5565	atk01	a,s_trigger_expose_weak_point1\0	a,g_rim_80_normal\0	a,LineageMonster6.br_husk_crawler\0
+2082	4032	spatk01	a,s_npc_strike9\0	a,g_rim_80_speciala\0	a,LineageMonster6.br_husk_stalker\0
+2082	5565	atk02	a,s_trigger_expose_weak_point1\0	a,g_rim_80_speciala\0	a,LineageMonster6.br_husk_stalker\0
+2083	4032	spatk01	a,s_npc_strike9\0	a,g_rim_80_specialb\0	a,LineageMonster6.br_husk_warper\0
+2083	4340	spatk02	a,s_ultimate_buff_2nd\0	a,g_rim_80_specialb\0	a,LineageMonster6.br_husk_warper\0
+2083	5565	atk01	a,s_trigger_expose_weak_point1\0	a,g_rim_80_specialb\0	a,LineageMonster6.br_husk_warper\0
+134	20002	spatk02	a,s_transform_dragon_attack_lee\0	a,g_dragonmaster_lee\0	a,LineageNPC2.br_dragonmaster_lee\0
+135	20003	spatk02	a,s_transform_dragon_attack_karin\0	a,g_dragonmaster_karin\0	a,LineageNPC2.br_dragonmaster_karin\0
+134	20004	atk01	a,s_transform_dragon_dash\0	a,g_dragonmaster_lee\0	a,LineageNPC2.br_dragonmaster_lee\0
+135	20004	atk01	a,s_transform_dragon_dash\0	a,g_dragonmaster_karin\0	a,LineageNPC2.br_dragonmaster_karin\0
+134	20005	atk01	a,s_transform_dragon_aura\0	a,g_dragonmaster_lee\0	a,LineageNPC2.br_dragonmaster_lee\0
+135	20005	atk01	a,s_transform_dragon_aura\0	a,g_dragonmaster_karin\0	a,LineageNPC2.br_dragonmaster_karin\0

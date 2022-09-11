@@ -36,11 +36,16 @@ IsUseXMLUI=True
 L2ShaderPath=..\system\
 UseNewPetition=false
 L2HomeURL=http://www.lineage2.com/
-CmdLineLogin=false 
-ExternalLogin=false
 UseAuthUserData=true
 NOGG_Auth=true
+NetSendHardWare=false
+
+[Auth]
+CmdLineLogin=false 
+ExternalLogin=false 
 UseSecondaryAuth=false
+UseEMailAccount=false
+ServerAddrChangeCommandLine=true
 
 [L2WaterEffect]
 ColorReference=(A=180,R=38,G=56,B=64,RR=150)
@@ -451,6 +456,7 @@ SecureModule=False
 
 [PrimeShop]
 UsePrimeShop=false
+UseGoodsInventory=false
 
 [Localize]
 UseLectureMark=false

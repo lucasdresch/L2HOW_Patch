@@ -705,7 +705,7 @@ RandomAnim.MagicThrowAnimNameA[0]=MagicThrow_A_FFighter
 RandomAnim.MagicNoTargetAnimNameA[0]=MagicNoTarget_A_FFighter
 
 SpAtk05AnimName[0]=Social_dance_FFighter
-SpAtk05AnimName[0]=Social_dance_FFighter
+SpAtk06AnimName[0]=spatk06_Hand_FFighter
 ShieldAtkAnimName[0]=shieldatk_1HS_FFighter
 
 FallAnimName[0]=Falling_FFighter

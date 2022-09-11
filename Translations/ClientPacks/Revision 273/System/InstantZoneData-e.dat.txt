@@ -150,7 +150,12 @@
 149	a,Olympiad\0
 150	a,Olympiad\0
 151	a,Monastery of Silence\0
+152	a,Monastery of Silence\0
+153	a,Monastery of Silence\0
+154	a,Monastery of Silence\0
+155	a,Monastery of Silence\0
 156	a,Library of Sages\0
 157	a,Underground Library of Sages\0
 158	a,Elcadia's Tent\0
 159	a,Penal Colony of Darkness Raid\0
+160	a,Rim Kamaloka\0

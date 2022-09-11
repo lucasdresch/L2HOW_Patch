@@ -22,3 +22,5 @@
 15452	a,br_event_it_halloween\0
 15453	a,br_event_it_halloween\0
 15464	a,br_event_it_halloween\0
+20723	a,br_event_it_halloween\0
+20724	a,br_event_it_halloween\0

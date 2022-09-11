@@ -163,7 +163,7 @@
 162	a,Create\0
 163	a,Name\0
 164	a,Race\0
-165	a,Cls\0
+165	a,Class\0
 166	a,Gender\0
 167	a,Hairstyle\0
 168	a,Hair Color\0
@@ -1275,7 +1275,7 @@
 1274	a,Forced Petition\0
 1275	a,Server Transfer\0
 1276	a,- Selection -\0
-1277	a,PC Bang Points\0
+1277	a,PC Points\0
 1278	a,One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten\0
 1279	a,Ten, Hundred, Thousand, Ten Thousand, Hundred Thousand\0
 1280	a,Ten Thousand, Hundred Million\0
@@ -1446,7 +1446,7 @@
 1445	a,No Captain exists.\0
 1446	a,Penalty Information\0
 1447	a,Title\0
-1448	a,PC Room Coupon Event\0
+1448	a,Player Commendation Event\0
 1449	a,Note\0
 1450	a,Status\0
 1451	a,Affiliation Ranking\0
@@ -1736,7 +1736,7 @@
 1735	a,Chg. Color\0
 1736	a,Item List\0
 1737	a,Receive\0
-1738	a,Vitamin Item\0
+1738	a,Dimensional Item\0
 1739	a,<Limited time item>\0
 1740	a,Sender:\0
 1741	a,View Song/Dance Buffs\0
@@ -1943,7 +1943,7 @@
 1993	a,Event Server\0
 1994	a,To see both Inventory and Equipment windows\0
 1995	a,Reward\0
-1996	a,Energy\0
+1996	a,Vitality\0
 1997	a,PvP Points\0
 1998	a,Epic Quest\0
 1999	a,Job Change Quest\0
@@ -2159,7 +2159,7 @@
 2236	a,Two-person Bow\0
 2237	a,Hi-Five\0
 2238	a,Couple Dance\0
-2239	a,Turn off PC cafe points\0
+2239	a,Turn off PC points\0
 2240	a,Handle\0
 2241	a,Select Attribute for Deletion\0
 2242	a,Seed of Annihilation Direction\0
@@ -2168,15 +2168,15 @@
 2245	a,Water\0
 2246	a,Wind\0
 2247	a,Earth\0
-2248	a,Divinity\0
-2249	a,Darkness\0
-2250	a,Energy Bonus\0
+2248	a,Holy\0
+2249	a,Dark\0
+2250	a,Nevit's Blessings\0
 2251	a,Bonus Exp\0
 2252	a,Bonus Time\0
-2253	a,Can open or close the Energy Bonus window.\0
-2254	a,Can open and close the PC cafe points window.\0
-2255	a,Energy Bonus Help\0
-2256	a,You can enjoy various benefits using PC cafe points.\\nYou can accumulate up to 200,000 points.\0
+2253	a,Can open or close the Nevit's Blessings window.\0
+2254	a,Open and close the PC Points window.\0
+2255	a,Nevit's Blessings Help\0
+2256	a,You can enjoy various benefits using Player Commendation Points. \\nYou can accumulate up to 200,000 points.\0
 2257	a,Homepage\0
 2258	a,Navigate\0
 2259	a,Clan Recruitment Hall Forum\0
@@ -2195,7 +2195,7 @@
 2272	a,Delete Name\0
 2273	a,Friend\0
 2274	a,Role\0
-2275	a,Maintain\0
+2275	a,Paused\0
 2276	a,Instance\0
 2277	a,Request Match\0
 2278	a,Watch Match\0
@@ -2215,7 +2215,7 @@
 2292	a,Damage\0
 2293	a,Points\0
 2294	a,Watch Mode Guide\0
-2295	a,Move Forward/Back/Right/Left\0
+2295	a,Move Fwd/Back/Right/Left\0
 2296	a,Move Up/Down\0
 2297	a,Sart/End Replay\0
 2298	a,Camera\0
@@ -2232,7 +2232,7 @@
 2317	a,<Hunting Bonus>\0
 2318	a,<Rec Bonus>\0
 2319	a,<Hunting Bonus>\0
-2320	a,Maintain\0
+2320	a,Paused\0
 2321	a,Character\0
 2322	a,Bonus Time\0
 2348	a,Do not view NPC dialogue\0
@@ -2249,14 +2249,16 @@
 2469	a,Product Inventory\0
 2470	a,Product List\0
 2471	a,Select Product Detailed Information\0
-2472	a,Additional Product Info\0
+2472	a,Product Category\0
 2473	a,Gift Message\0
-2474	a,Product Sales Information\0
+2474	a,Additional Product Info\0
 2475	a,Not Applicable\0
 2498	a,After safely logging in, enter the character's password. The character's password must be entered when a character enters or is deleted. (This is registered separately from the account password.)\0
 2499	a,Note: The number sequence randomly changes each time you log in.\0
 2500	a,After entering the current password, please enter the new password to be used. (This is registered separately from the account password.)\0
 2594	a,Please enter a character's password to protect your account.\0
+2658	a,Product Inventory Help\0
+2669	a,Receive Product\0
 5001	a,Item Shop\0
 5002	a,All Items\0
 5003	a,Best\0
@@ -2324,3 +2326,4 @@
 5065	a,<Energy Information>\0
 5066	a,Remaining energy/Total energy:\0
 5067	a,Agathion Resurrection\0
+5068	a,Today\0

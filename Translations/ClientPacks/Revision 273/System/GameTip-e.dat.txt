@@ -94,7 +94,7 @@
 93	3	0	1	a,Account theft mainly occurs when sharing accounts.\\nPlease make account security a top priority.\0
 94	3	102	1	a,When dissolving a clan or alliance, the clan leader's experience will be penalized the equivalent of one death.\\nBe sure to factor that into your decision.\0
 95	1	0	1	a,Use the minimap to confirm the drop location of Demonic Sword Zariche or Blood Sword Akamanah.\0
-96	1	0	1	a,Click the Expand button on the shortcut bar to expand the bar up to 3 tiers, and see up to 36 shortcuts simultaneously.\0
+96	1	0	1	a,Click the Expand button on the shortcut bar to expand the bar up to 4 tiers, \\nand see up to 48 shortcuts simultaneously.\0
 97	1	0	0	u,The Adventurer Guide Book, previously only available for purchase, is now linked to the map.\\nAccess the guide by clicking the “World Info.” button on the map window.\\nOld Adventurer Guide Books may be returned at a town store for the original purchase price.\0
 98	1	0	1	a,Parties can recruit additional members from the Party Matching Waiting List.\\nUse this list to find players and send party invites.\0
 99	4	0	1	a,In a hunting ground designed for groups, herbs will not be dropped.\0

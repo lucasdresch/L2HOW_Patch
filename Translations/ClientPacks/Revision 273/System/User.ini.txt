@@ -136,14 +136,14 @@ PrintScrn=OnRelease shot
 ;W=MoveForward
 ;X=
 ;Y=TeamTalk
-NumPad0=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=0,roll=16384) | set LineagePlayerController bFixCameraRotation True
-NumPad1=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=32768,roll=-16384) | set LineagePlayerController bFixCameraRotation True
-NumPad2=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=16384,roll=32768) | set LineagePlayerController bFixCameraRotation True
-NumPad3=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=-16384,roll=0) | set LineagePlayerController bFixCameraRotation True
-NumPad4=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=16384,yaw=0,roll=16384) | set LineagePlayerController bFixCameraRotation True
-NumPad5=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=-16384,yaw=0,roll=16384) | set LineagePlayerController bFixCameraRotation True
-NumPad6=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=0,roll=0) | set LineagePlayerController bFixCameraRotation True
-NumPad7=set playercontroller bZeroRoll True | set LineagePlayerController bFixCameraRotation False
+;NumPad0=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=0,roll=16384)
+;NumPad1=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=32768,roll=-16384)
+;NumPad2=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=16384,roll=32768)
+;NumPad3=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=0,yaw=-16384,roll=0)
+;NumPad4=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=16384,yaw=0,roll=16384)
+;NumPad5=set playercontroller bZeroRoll False | set playercontroller rotation (pitch=-16384,yaw=0,roll=16384)
+;NumPad6=set playercontroller bZeroRoll True | set playercontroller rotation (pitch=0,yaw=0,roll=0)
+;NumPad7=
 ;NumPad8=
 ;NumPad9=
 ;GreyStar=
@@ -256,25 +256,25 @@ RightMouse=CameraRotationOn | UseAutoTrackingPawnOff | StopMouse | CameraRotatio
 ;MiddleMouse=CameraRotationModeOn | CameraRotationModeOff 
 ;MiddleMouse=FixedDefaultCamera
 ;End=FixedDefaultCamera
-MiddleMouse=TurnBack
+;MiddleMouse=TurnBack
 
 Left=LeftTurningStart | LeftTurningFinish OnRelease
 Right=RightTurningStart | RightTurningFinish OnRelease
 Up=KeyboardMoveStart Dir=1 | KeyboardMoveFinish OnRelease Dir=1
 Down=KeyboardMoveStart Dir=4 | KeyboardMoveFinish OnRelease Dir=4
-A=LeftTurningStart | LeftTurningFinish OnRelease
-D=RightTurningStart | RightTurningFinish OnRelease
-W=KeyboardMoveStart Dir=1 | KeyboardMoveFinish OnRelease Dir=1
-S=KeyboardMoveStart Dir=4 | KeyboardMoveFinish OnRelease Dir=4
+;A=LeftTurningStart | LeftTurningFinish OnRelease
+;D=RightTurningStart | RightTurningFinish OnRelease
+;W=KeyboardMoveStart Dir=1 | KeyboardMoveFinish OnRelease Dir=1
+;S=KeyboardMoveStart Dir=4 | KeyboardMoveFinish OnRelease Dir=4
 Q=SpawnDummy OnRelease
 ;NumLock=KeyboardPermanentMove
 
-Equals=GroundSpeedUp
-Minus=GroundSpeedDown
-PageUp=FixedDefaultCamera Down
-PageDown=FixedDefaultCamera Up
-Home=FixedDefaultCamera
-End=TurnBack
+;Equals=GroundSpeedUp
+;Minus=GroundSpeedDown
+;PageUp=FixedDefaultCamera Down
+;PageDown=FixedDefaultCamera Up
+;Home=FixedDefaultCamera
+;End=TurnBack
 
 ;for camera walking
 E=KeyboardMoveStart Dir=16 | KeyboardMoveFinish OnRelease Dir=16 | PauseReplay OnRelease
@@ -403,7 +403,7 @@ FixedDefaultCameraExteriorView[4]=0
 FixedDefaultCameraMinDist[4]=-200
 FixedDefaultCameraDisablePitch[4]=0
 ;2 °¡Àå ³ë¸»ÇÑ Follow view
-FixedDefaultCameraYaw[3]=16384
+FixedDefaultCameraYaw[3]=0
 FixedDefaultCameraPitch[3]=-2700.0
 FixedDefaultCameraDist[3]=230.0
 FixedDefaultCameraViewHeight[3]=0.0
@@ -489,7 +489,6 @@ FixedDefaultCameraExteriorView[11]=0
 FixedDefaultCameraMinDist[11]=400
 FixedDefaultCameraMaxDist[11]=1000
 FixedDefaultCameraDisablePitch[11]=0
-
 
 [Engine.HUD]
 HudMode=0	

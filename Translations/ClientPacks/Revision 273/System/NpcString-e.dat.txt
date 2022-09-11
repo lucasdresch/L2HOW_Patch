@@ -641,7 +641,7 @@
 1010117	a,Three-way crossroads at Dragon Valley\0
 1010118	a,Breka's Stronghold\0
 1010119	a,Gorgon Flower Garden\0
-1010120	a,Antharas' Lair\0
+1010120	a,Antharas's Lair\0
 1010121	a,Sea of Spores\0
 1010122	a,Outlaw Forest\0
 1010123	a,Forest of Evil and the Ivory Tower\0
@@ -854,14 +854,14 @@
 1010502	a,Cruma Tower - Second Floor\0
 1010503	a,Cruma Tower - Third Floor\0
 1010504	a,Entrance to Devil's Isle\0
-1010505	a,Headmaster's Authority (West Gate)\0
+1010505	a,Sel Mahum Training Grounds (West Gate)\0
 1010506	a,Gludin Arena\0
 1010507	a,Giran Arena\0
-1010508	a,Entrance to Antharas' Lair \0
-1010509	a,Antharas' Lair - 1st Level\0
-1010510	a,Antharas' Lair - 2nd Level\0
-1010511	a,Antharas' Lair -  Magic Force Field Bridge\0
-1010512	a,The Heart of Antharas' Lair\0
+1010508	a,Entrance to Antharas's Lair \0
+1010509	a,Antharas's Lair - 1st Level\0
+1010510	a,Antharas's Lair - 2nd Level\0
+1010511	a,Antharas's Lair -  Magic Force Field Bridge\0
+1010512	a,The Heart of Antharas's Lair\0
 1010513	a,East of the Field of Silence\0
 1010514	a,West of the Field of Silence\0
 1010515	a,East of the Field of Whispers\0
@@ -1032,8 +1032,8 @@
 1010704	a,Field of Silence Center\0
 1010705	a,Field of Whispers Center\0
 1010706	a,Shyeed's Cavern\0
-1010707	a,Headmaster's Authority (South Gate)\0
-1010708	a,Headmaster's Authority (Center)\0
+1010707	a,Sel Mahum Training Grounds (South Gate)\0
+1010708	a,Sel Mahum Training Grounds (Center)\0
 1010709	a,Seed of Infinity Dock\0
 1010710	a,Seed of Destruction Dock\0
 1010711	a,Seed of Annihilation Dock\0
@@ -1051,7 +1051,7 @@
 1110010	a,<a action="bypass -h menu_select?ask=419&reply=0">None of the above.</a><br>\0
 1110011	a,<a action="bypass -h menu_select?ask=419&reply=0">10 hours</a><br>\0
 1110012	a,<a action="bypass -h menu_select?ask=419&reply=0">15 hours</a><br>\0
-1110013	a,<a action="bypass -h menu_select?ask=419&reply=1">24 hours</a><br>\0
+1110013	a,<a action="bypass -h menu_select?ask=419&reply=1">It won't disappear.</a><br>\0
 1110014	a,<a action="bypass -h menu_select?ask=419&reply=0">25 hours</a><br>\0
 1110015	a,<a action="bypass -h menu_select?ask=419&reply=0">None of the above.</a><br>\0
 1110016	a,<a action="bypass -h menu_select?ask=419&reply=1">Dire Wolf</a><br>\0
@@ -1359,7 +1359,7 @@
 1120007	a,Pan Dryad (lv25)\0
 1120008	a,Breka Warlock Pastu (lv34)\0
 1120009	a,Stakato Queen Zyrnna (lv34)\0
-1120010	a,Katu Van Leader Atui (lv49)\0
+1120010	a,Ketra Commander Atis (lv49)\0
 1120011	a,Atraiban (lv53)\0
 1120012	a,Eva's Guardian Millenu (lv58)\0
 1120013	a,Shilen's Messenger Cabrio (lv70)\0
@@ -1370,7 +1370,7 @@
 1120018	a,Verfa (lv51)\0
 1120019	a,Rahha (lv65)\0
 1120020	a,Kernon (lv75)\0
-1120021	a,Biconne of Blue Sky (lv45)\0
+1120021	a,Beacon of Blue Sky (lv45)\0
 1120022	a,Unrequited Kael (lv24)\0
 1120023	a,Chertuba of Great Soul (lv35)\0
 1120024	a,Mystic of Storm Teruk (lv40)\0
@@ -1419,7 +1419,7 @@
 1120067	a,Tiger King Karuta (lv45)\0
 1120068	a,Black Lilly (lv55)\0
 1120069	a,Karum, Guardian of the Statue of the Giant (lv60)\0
-1120070	a,Demon Kurikups (lv59)\0
+1120070	a,Demon Kuri (lv59)\0
 1120071	a,Tasaba Patriarch Hellena (lv35)\0
 1120072	a,Apepi (lv30)\0
 1120073	a,Cronos's Servitor Mumu (lv34)\0
@@ -1438,7 +1438,7 @@
 1120086	a,Storm Winged Naga (lv75)\0
 1120087	a,Ragoth, Seer of Timak (lv57)\0
 1120088	a,Spiteful Soul of Andras the Betrayer (lv69)\0
-1120089	a,Ancient Weird Drake (lv60)\0
+1120089	a,Ancient Drake (lv60)\0
 1120090	a,Vanor Chief Kandra (lv72)\0
 1120091	a,Abyss Brukunt (lv59)\0
 1120092	a,Harit Hero Tamash (lv55)\0
@@ -1482,7 +1482,7 @@
 1120130	a,Soul Scavenger (lv25)\0
 1120131	a,Discarded Guardian (lv20)\0
 1120132	a,Malex, Herald of Dagoniel  (lv21)\0
-1120133	a,Zombie Lord Farakelsus (lv20)\0
+1120133	a,Zombie Lord Ferkel (lv20)\0
 1120134	a,Madness Beast (lv20)\0
 1120135	a,Kaysha, Herald of Icarus (lv21)\0
 1120136	a,Ghost of Sir Calibus (lv34)\0
@@ -2176,7 +2176,7 @@
 1300113	a,Cloud Mountain Fortress\0
 1300114	a,Tanor Fortress\0
 1300115	a,Dragonspine Fortress\0
-1300116	a,Antharas' Fortress\0
+1300116	a,Antharas's Fortress\0
 1300117	a,Western Fortress\0
 1300118	a,Hunter's Fortress\0
 1300119	a,Aaru Fortress\0
@@ -3464,7 +3464,7 @@
 1010631	a,De-activate the alarm.\0
 1010632	a,Oh no! The defenses have failed. It is too dangerous to remain inside the castle. Flee! Every man for himself!\0
 1010633	a,The game has begun. Participants, prepare to learn an important word.\0
-1010634	a,%s team's jackpot has %s percent of its HP remaining.\0
+1010634	a,$s1 team's jackpot has $s2 percent of its HP remaining.\0
 1010635	a,Undecided\0
 1010636	a,Heh Heh... I see that the feast has begun! Be wary! The curse of the Hellmann family has poisoned this land!\0
 1010637	a,Arise, my faithful servants! You, my people who have inherited the blood.  It is the calling of my daughter.  The feast of blood will now begin!\0
@@ -3627,17 +3627,17 @@
 1800148	a,Oink-oink! I'm really furious right now!\0
 1800149	a,Squeak! Rage is boiling up inside of me! Power! Infinite power!!\0
 1800150	a,Squeak! I'm really furious right now!!\0
-1800151	a,Hall of Nightmares (Levels 20-30)\0
-1800152	a,Hall of Nightmares (Levels 25-35)\0
-1800153	a,Hall of Nightmares (Levels 30-40)\0
-1800154	a,Hall of Nightmares (Levels 35-45)\0
-1800155	a,Hall of Nightmares (Levels 40-50)\0
-1800156	a,Hall of Nightmares (Levels 45-55)\0
-1800157	a,Hall of Nightmares (Levels 50-60)\0
-1800158	a,Hall of Nightmares (Levels 55-65)\0
-1800159	a,Hall of Nightmares (Levels 60-70)\0
-1800160	a,Hall of Nightmares (Levels 65-75)\0
-1800161	a,Hall of Nightmares (Levels 70-80)\0
+1800151	a,Rim Kamaloka (Levels 20-30)\0
+1800152	a,Rim Kamaloka (Levels 25-35)\0
+1800153	a,Rim Kamaloka (Levels 30-40)\0
+1800154	a,Rim Kamaloka (Levels 35-45)\0
+1800155	a,Rim Kamaloka (Levels 40-50)\0
+1800156	a,Rim Kamaloka (Levels 45-55)\0
+1800157	a,Rim Kamaloka (Levels 50-60)\0
+1800158	a,Rim Kamaloka (Levels 55-65)\0
+1800159	a,Rim Kamaloka (Levels 60-70)\0
+1800160	a,Rim Kamaloka (Levels 65-75)\0
+1800161	a,Rim Kamaloka (Levels 70-80)\0
 1800162	a,G Rank\0
 1800163	a,Huh... No one would have guessed that a doomed creature would be so powerful...\0
 1800164	a,S-Grade\0
@@ -4232,20 +4232,20 @@
 1800753	a,$s1 received +$s2 $s3 through the weapon exchange coupon.\0
 1800754	a,Don't go prattling on!\0
 1800755	a,You lowlifes with not even an ounce of pride! You're not worthy of opposing me!\0
-1800756	a,Roar~! No~ Oink oink~! See~! I'm a pig~! Oink oink~!!\0
-1800757	a,Who am I~ Where am I... Oink oink!\0
-1800758	a,I just followed the Milk Cow for fun~ Oink oink!\0
-1800759	a,Moo~! Woo~ That's some cure-all~~!\0
-1800760	a,Moo~~ I'm starving. Think I'll go chew some grass.\0
-1800761	a,Thanks~ Next time, let's have a glass of milk together~!\0
-1800762	a,Moo~! Grunt grunt~! Feels like my energy is back~!\0
-1800763	a,Moo~! Yeah, right there! That's perfect!\0
-1800764	a,Wow~ My fatigue is completely gone!\0
-1800765	a,Yeah~ My fatigue gauge is decreasing~! I'm slowly feeling better.\0
-1800766	a,Moo~~ My body feels as light as a feather~\0
-1800767	a,What's this? Food? Oink oink!\0
-1800768	a,Lots of power~! I don't need any Fatigue Recovery Potion~ Oink oink!\0
-1800769	a,What's the matter with you? Like an amateur! Give the Fatigue Recovery Potion to the cow, OK~ Oink oink!\0
+1800756	u,Where am I? This doesn't look right at all… Oink oink!\0
+1800757	u,What's going on… How did I get here... Oink oink!\0
+1800758	u,Not again, please leave me alone… Oink oink!\0
+1800759	a,Wow! I feel so warm and fuzzy now!\0
+1800760	a,I feel so happy now.\0
+1800761	a,Words cannot express my happiness!\0
+1800762	u,What's this feeling? Is this… happiness?\0
+1800763	u,I'm feeling, less angry… what is this witchcraft?\0
+1800764	a,Amazing. My hatred is completely gone!\0
+1800765	u,Urge to kill lessening… lessening…\0
+1800766	a,I'm all sorts of warm and fluffy now.\0
+1800767	a,What's this? Food?\0
+1800768	u,Not thanks… I… I think I'm good now.\0
+1800769	u,Cheap move… I thought this was going to be fair.\0
 1800770	a,Fortune Timer: Reward increases 2 times if completed within 10 seconds!\0
 1800771	a,Fortune Timer: Reward increases 2 times if completed within 40 seconds!\0
 1800772	a,40 seconds are remaining.\0
@@ -4291,14 +4291,14 @@
 1800812	a,Time up!\0
 1800813	a,Mission failed!\0
 1800814	a,Mission success!\0
-1800815	a,Look here. I already have an owner~\0
-1800816	a,Hey~. Are you trying to eat me? Use Cupid's Fatigue Recovery Potion already!\0
-1800817	a,I don't want an amateur's meridian massage. Use Cupid's Fatigue Recovery Potion already!\0
-1800818	a,Moo~ My fatigue is gone already. Thanks, $s1~\0
-1800819	a,So fast. You wouldn't happen to be a master masseuse, $s1, would you?\0
-1800820	a,Incredible. From now on, I'll compare all massages to this one with $s1!\0
-1800821	a,It's tough by yourself, right? Next time, try to make a party with some comrades~\0
-1800822	a,Sorry, but let me ask my friend too~ Thanks.\0
+1800815	a,I'll kill you later, right now I'm raging at this guy.\0
+1800816	a,I'll nibble your toes off! *Quick, use the Bunny Pacifier Juice*\0
+1800817	a,Here comes the furry flurry of fury! *Quick, use the Bunny Pacifier Juice*\0
+1800818	a,I don't feel like killing anymore. Thanks, $s1~\0
+1800819	a,Squeee! Are you a rabbit whisperer $s1, cause I feel great.\0
+1800820	a,Boy, the next time I feel like going on a rampage I hope you are there $s1!\0
+1800821	a,I hope your happy because I'm not. Next time try bringing some friends.\0
+1800822	u,Rage level is rising… FEEL MY RAGE!\0
 1800823	a,Sniff sniff~ Do you smell the scent of a fresh-baked baguette?\0
 1800824	a,Who am I~? Let me know if you wanna buy my bread~~\0
 1800825	a,I just want to make your weapons stronger~ Abra Kadabra~!\0
@@ -4343,7 +4343,7 @@
 1800864	a,I am tired! Do not wake me up again!\0
 1800865	a, Intruder detected \0
 1800866	a,The candles can lead you to Zaken. Destroy him\0
-1800867	a,Who dares awkawen the mighty Zaken?\0
+1800867	a,Who dares awaken the mighty Zaken?\0
 1800868	a,Ye not be finding me below the drink!\0
 1800869	a,Ye must be three sheets to the wind if yer lookin for me there.\0
 1800870	a,Ye not be finding me in the Crows Nest.\0
@@ -4547,11 +4547,11 @@
 1801068	a,Hahahaha!\0
 1801069	a,Where are you looking?\0
 1801070	a,I'm right here.\0
-1801071	a,Annoying concentration attacks are disrupting Valakas' concentration!\\nIf it continues, you may get a great opportunity!\0
-1801072	a,Some warrior's blow has left a huge gash between the great scales of Valakas!\\nValakas' P. Def. is greatly decreased!\0
+1801071	a,Annoying concentration attacks are disrupting Valakas's concentration!\\nIf it continues, you may get a great opportunity!\0
+1801072	a,Some warrior's blow has left a huge gash between the great scales of Valakas!\\nValakas's P. Def. is greatly decreased!\0
 1801073	a,Annoying concentration attacks overwhelmed Valakas, making it forget its rage and become distracted!\0
 1801074	a,Long-range concentration attacks have enraged Valakas!\\nIf you continue, it may become a dangerous situation!\0
-1801075	a,Because the cowardly counterattacks continued, Valakas' fury has reached its maximum!\\nValakas' P. Atk. is greatly increased!\0
+1801075	a,Because the cowardly counterattacks continued, Valakas's fury has reached its maximum!\\nValakas's P. Atk. is greatly increased!\0
 1801076	a,Valakas has been enraged by the long-range concentration attacks and is coming toward its target with even greater zeal!\0
 1801077	a,Listen, oh Tantas! I have returned! The Prophet Yugoros of the Black Abyss is with me, so do not be afraid!\0
 1801078	a,Welcome, $s1! Let us see if you have brought a worthy offering for the Black Abyss!\0
@@ -4654,17 +4654,17 @@
 1801175	a,Where are you, really? I can't follow you like this.\0
 1801176	a,I'm sorry... This is it for me.\0
 1801177	a,Sob~ To see Ermian again... Can I go to my family now?\0
-1801178	a,*Grunt* Ah, I can start feeling the energy!\0
-1801179	a,Yeah, right there! That's perfect!\0
-1801180	a,Wow~ My fatigue is completely gone!\0
-1801181	a,Yeah~ My fatigue gauge is decreasing~! I'm slowly feeling better.\0
-1801182	a,My body feels as light as a feather~\0
-1801183	u,I already feel more energetic. Thanks, $s1…\0
-1801184	a,So fast. You wouldn't happen to be a master masseuse, $s1, would you?\0
-1801185	a,Incredible. From now on, I'll compare all massages to this one with $s1!\0
-1801186	a,Wow! That's what I call a Cure-All!\0
-1801187	a,I'm getting hungry.\0
-1801188	a,Thank you, thank you!\0
+1801178	u,Feel kind of funny… but also so joyful.\0
+1801179	u,I'm feeling, less angry… what is this witchcraft?\0
+1801180	u,Whew… I need a nap now.\0
+1801181	u,That tickles… I still want you dead.\0
+1801182	a,I'm on cloud nine!\0
+1801183	a,Thanks for taking care of my rage $s1!\0
+1801184	a,Squeee! Are you a rabbit whisperer $s1, cause I feel great.\0
+1801185	a,Boy, the next time I feel like going on a rampage I hope you are there $s1!\0
+1801186	a,Wow! I feel so warm and fuzzy now!\0
+1801187	a,I feel so happy now.\0
+1801188	a,Words cannot express my happiness!\0
 1801189	a,Magic power so strong that it could make you lose your mind can be felt from somewhere!!\0
 1801190	a,Even though you bring something called a gift among your humans, it would just be problematic for me...\0
 1801191	a,I just don't know what expression I should have it appeared on me. Are human's emotions like this feeling?\0
@@ -4729,21 +4729,21 @@
 1600004	a,Boo-hoo... I hate...\0
 1600005	a,See you later.\0
 1600006	a,You've made a great choice.\0
-1600007	a,A relaxing feeling is moving through my stomach.\0
+1600007	u,Thanks! I feel more relaxed…\0
 1600008	a,Did you see that Firecracker explode?\0
 1600009	a,I am nothing.\0
 1600010	a,I am telling the truth.\0
 1600011	a,You cannot mount a Wyvern while in battle mode or while mounted on a Strider.\0
 1600012	a,It's free to go back to the village you teleported from.\0
 1600013	a,If you collect 50 individual Treasure Sack Pieces, you can exchange them for a Treasure Sack.\0
-1600014	a,You must be transformed into a rabbit to find the chest.\0
-1600015	a,You'd better use the spell at the right moment since a Rabbit Transformation doesn't last long.\0
+1600014	a,You must be transformed into a Treasure Hunter to find a chest.\0
+1600015	a,You'd better use the Transformation spell at the right moment since it doesn't last long.\0
 1600016	a,All of Fantasy Isle is a Peace Zone.\0
 1600017	a,If you need to go to Fantasy Isle, come see me.\0
-1600018	a,You can only purchase a Rabbit Transformation Scroll once every 12 hours.\0
+1600018	a,You can only purchase a Treasure Hunter Transformation Scroll once every 12 hours.\0
 1600019	a,If your means of arrival was a bit unconventional, then I'll be sending you back to Rune Township, which is the nearest town.\0
-1600020	a,Startled\0
-1600021	a,Bumps\0
+1600020	a,*Rattle*\0
+1600021	a,*Bump*\0
 1600022	a,You will regret this.\0
 1600023	a,Care to challenge fate and test your luck?\0
 1600024	a,Don't pass up the chance to win an S80 weapon.\0
@@ -5677,15 +5677,15 @@
 45684	a,Dominion Crossbow\0
 45685	a,Blessed Weapon Enchant Scroll - S Grade\0
 45686	a,Blessed Armor Enchant Scroll - S Grade\0
-45687	a,Crystal of Fire\0
-45688	a,Crystal of Water\0
-45689	a,Crystal of Earth\0
-45690	a,Crystal of Wind\0
-45691	a,Crystal of Sacred\0
-45692	a,Crystal of Darkness\0
+45687	a,Fire Crystal\0
+45688	a,Water Crystal\0
+45689	a,Earth Crystal\0
+45690	a,Wind Crystal\0
+45691	a,Holy Crystal\0
+45692	a,Dark Crystal\0
 45693	a,Weapon Enchant Scroll - S Grade\0
 1120300	a,Thank you... My book... Child...\0
-1120301	a,The Dead to $s1\0
+1120301	a,Killed by $s1\0
 2601	a,Tired of Waiting\0
 2602	a,Tired of Waiting (In Progress)\0
 2603	a,Tired of Waiting (Done)\0
@@ -5847,17 +5847,17 @@
 550301	a,Cloak Embroidered with Souls - 3 (Frintezza)\0
 550302	a,Cloak Embroidered with Souls - 3 (Frintezza) (In Progress)\0
 550303	a,Cloak Embroidered with Souls - 3 (Frintezza) (Complete)\0
-1900139	a,Luckpy~! I'm Luckpy, the spirit that loves adena~\0
-1900140	a,Luckpy! I wanna eat adena. Give it to me!\0
-1900141	a,Luckpy! If I eat too much adena, my wings disappear...\0
-1900142	a,Yummy. Thanks! Luckpy!\0
-1900143	a,Grrrr... Yucky...\0
-1900144	a,Luckpy! The adena is so yummy! I'm getting bigger!\0
-1900145	a,Luckpy! No more adena? Oh... I'm so heavy!\0
-1900146	a,Luckpy! I'm full~ Thanks for the yummy adena! Oh... I'm so heavy!\0
-1900147	a,Luckpy! It wasn't enough adena. It's gotta be at least %s!\0
+1900139	a,Lucky! I'm Lucky, the spirit that loves adena\0
+1900140	a,Lucky! I want to eat adena. Give it to me!\0
+1900141	u,Lucky! If I eat too much adena, my wings disappear…\0
+1900142	a,Yummy. Thanks! Lucky!\0
+1900143	u,Grrrr... Yuck…\0
+1900144	a,Lucky! The adena is so yummy! I'm getting bigger!\0
+1900145	a,Lucky! No more adena? Oh... I'm so heavy!\0
+1900146	a,Lucky! I'm full~ Thanks for the yummy adena! Oh... I'm so heavy!\0
+1900147	a,Lucky! It wasn't enough adena. It's gotta be at least %s!\0
 1900148	a,Oh! My wings disappeared! Are you gonna hit me? If you hit me, I'll throw up everything that I ate!\0
-1900149	a,Oh! My wings... Ack! Are you gonna hit me?! Scary, scary! If you hit me, something bad is going to happen!\0
+1900149	a,Oh! My wings... Ack! Are you gonna hit me?! Scary, scary! If you hit me, something bad will happen!\0
 90101	a,How a Lavasaurus is Made\0
 90102	a,How a Lavasaurus is Made (In Progress)\0
 90103	a,How a Lavasaurus is Made (Done)\0
@@ -5887,9 +5887,9 @@
 90701	a,Dragon Trophy - Valakas\0
 90702	a,Dragon Trophy - Valakas (In Progress)\0
 90703	a,Dragon Trophy - Valakas (Done)\0
-550501	a,Jewel of the Valakas\0
-550502	a,Jewel of the Valakas (In Progress)\0
-550503	a,Jewel of the Valakas (Done)\0
+550501	a,Jewel of Valakas\0
+550502	a,Jewel of Valakas (In Progress)\0
+550503	a,Jewel of Valakas (Done)\0
 1900155	a,Earth energy is gathering near  Antharas's legs.\0
 1900156	a,Antharas starts to absorb the earth energy.\0
 1900157	a,Antharas raises its thick tail.\0
@@ -5911,3 +5911,5 @@
 1900173	a,Shout to celebrate the victory of the heroes!\0
 1900174	a,Praise the achievement of the heroes and receive Nevit's blessing!\0
 1900175	u,Ugh… I think this is it for me…\0
+1900176	a,Valakas calls forth the servitor's master.\0
+1900177	a,Rim Kamaloka (Lv 80 to 85)\0
